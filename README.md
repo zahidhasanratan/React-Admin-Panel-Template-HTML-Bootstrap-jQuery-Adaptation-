@@ -1,4 +1,43 @@
 
+# Admin Panel Template – File and Folder Structure
+
+This admin panel template is built using **HTML**, **CSS**, **Bootstrap**, **JavaScript**, and **jQuery**.
+
+## 📁 Folder Structure
+
+```
+admin-panel-template/
+│
+├── index.html                 # Main dashboard page
+├── README.md                  # Project documentation
+│
+├── css/
+│   └── style.css              # Custom stylesheet
+│
+├── js/
+│   └── script.js              # Custom JavaScript and jQuery logic
+│
+├── img/                       # Folder for images
+│   └── (place image files here)
+│
+├── pages/                     # Additional pages
+│   └── users.html             # Sample inner page: Users List
+│
+└── partials/                  # Optional common components
+    ├── header.html            # Top navigation bar (optional)
+    └── sidebar.html           # Sidebar navigation (optional)
+```
+
+## 📄 File Descriptions
+
+- **index.html**: Main entry point of the admin panel dashboard.
+- **css/style.css**: Contains all custom CSS styles.
+- **js/script.js**: Includes all JavaScript logic and jQuery code.
+- **pages/users.html**: Example of an inner page (like a user list).
+- **img/**: Place all your images or icons here.
+- **partials/**: Optional reusable UI components like headers, sidebars, etc.
+
+
 # 🛠️ React Admin Panel Template (HTML, Bootstrap, jQuery Adaptation)
 
 This is a simple and clean admin panel template built using **React**, adapted from a static HTML version that used **Bootstrap 5**, **CSS**, **JavaScript**, and **jQuery**.
